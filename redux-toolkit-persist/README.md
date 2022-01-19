@@ -10,4 +10,5 @@
 - cookies
 - sync-browser-tabs 
 
-我一直找不到最佳解，後來就在專案內採用redux了
+我一直找不到最佳解，後來就不在專案內採用redux了
+react原生的context 在搭配不同的 hook 結合的provider pattern是我目前覺得的最佳設計
