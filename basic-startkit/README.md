@@ -1,4 +1,4 @@
-# Nextjs Basick
+# Nextjs Basic
 
 ## Demo
 [Demo](https://codesandbox.io/s/next-example-basic-startkit-662y2)
