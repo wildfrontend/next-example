@@ -16,7 +16,7 @@
     "jsx": "preserve",
     "incremental": true,
     "paths": {
-      "api/*": ["./api/*"],
+      "apis/*": ["./apis/*"],
       "components/*": ["./components/*"],
       "constants/*": ["./constants/*"],
       "contexts/*": ["./contexts/*"],
