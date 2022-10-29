@@ -1,11 +1,9 @@
-import { Test } from "components/home/test";
-import type { NextPage } from "next";
+import { NextPage } from "next";
 
 const Home: NextPage = () => {
   return (
-    <div>
+    <div className="">
       <h1 className="text-3xl font-bold underline">Hello world!</h1>
-      <Test />
     </div>
   );
 };
